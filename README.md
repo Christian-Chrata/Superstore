@@ -66,4 +66,4 @@ The dashboard includes:
 ## 🤝 Contributors
 
 * Christian ([@Christian-Chrata](https://github.com/Christian-Chrata))
-* Yora Okta Aviani Rahardjo([@ratukucing](https://github.com/yoraoktaar))
+* Yora Okta Aviani Rahardjo([@yoraokta](https://github.com/yoraoktaar))
