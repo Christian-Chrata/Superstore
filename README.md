@@ -1,4 +1,8 @@
-![Superstore](image.png)
+---
+marp: True
+---
+
+![Superstore](images/Dashboard.gif)
 
 # 🛒 Superstore Analytics Dashboard 
 
@@ -50,6 +54,9 @@ The dashboard includes:
 
 ```
 📦 Superstore-Analytics
+├── images                   # Images folder
+    ├── Dashboard.gif          # Dashboard Preview
+    ├── image.png          # Superstore Background
 ├── input                   # Input folder
     ├── sample.csv          # Superstore dataset
 ├── output                  # Output folder
@@ -59,7 +66,7 @@ The dashboard includes:
         ├── scatter.csv     # scatter csv
 ├── hackaton_3.ipynb        # Python analysis notebook
 ├── LookerDashboard.pdf     # Exported dashboard visual
-├── Presentation.pdf        # Summary slides
+├── Presentation.pdf        # Presentation slides
 ├── README.md               # This file
 ```
 
