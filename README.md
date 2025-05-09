@@ -1,7 +1,3 @@
----
-marp: True
----
-
 ![Superstore](images/Dashboard.gif)
 
 # 🛒 Superstore Analytics Dashboard 
